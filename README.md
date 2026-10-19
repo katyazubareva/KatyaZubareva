@@ -41,48 +41,6 @@ Currently focused on:
 
 ---
 
-## Selected Projects
-
-### ⚔️ Interactive Tracking Game
-
-A non-VR fantasy game controlled by a custom physical sword.
-
-**Python · Computer Vision · MediaPipe · Unreal Engine · Arduino**
-
-Real-time camera tracking translates the movement of a physical controller into in-game actions.
-
----
-
-### 🧠 Medical AI Assistant
-
-An AI-powered assistant for working with medical information and user queries.
-
-**Python · NLP · RAG · LLM · API**
-
-Combines retrieval-based search and language models to provide contextual responses based on a structured medical knowledge base.
-
----
-
-### ⚡ Frontend Prototyping Platform
-
-A service for rapid prototyping of frontend applications.
-
-**Python · API · Docker · CI/CD · Git**
-
-Designed around reusable UI components, API integration and automated deployment.
-
----
-
-### 📚 Personalized Learning
-
-ML components for a language-learning application.
-
-**Python · NLP · Machine Learning · Data Processing**
-
-Analyzes user interactions and learning results to adapt content and generate personalized recommendations.
-
----
-
 ## Experience
 
 **ML Engineer · Shunli App**
