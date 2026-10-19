@@ -24,6 +24,16 @@ Building intelligent products, interactive systems and technology-driven experie
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://streak-stats.demolab.com?user=KatyaZubareva&hide_border=true&background=F4F3EF&ring=FF4B16&fire=FF4B16&currStreakLabel=111111&sideLabels=555555&dates=777777" />
+
+</div>
+
+---
+
 ## About
 
 I'm a Software Engineering graduate from **ITMO University** working across **machine learning, backend development, computer vision and interactive systems**.
@@ -38,6 +48,13 @@ Currently focused on:
 * Computer Vision
 * Interactive systems & real-time tracking
 * Data preparation and AI evaluation
+
+---
+
+## Education
+
+**ITMO University**
+Software Engineering · `2021 — 2026`
 
 ---
 
@@ -88,30 +105,13 @@ MediaPipe · Real-time Tracking · Interactive Systems
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://streak-stats.demolab.com?user=KatyaZubareva&hide_border=true&background=F4F3EF&ring=FF4B16&fire=FF4B16&currStreakLabel=111111&sideLabels=555555&dates=777777" />
-
-</div>
-
----
-
-## Education
-
-**ITMO University**
-Software Engineering · `2021 — 2026`
-
----
-
 <div align="center">
 
 ### Let's build something interesting.
 
 <br>
 
-<a href="https://katyazubareva.github.io/">Portfolio</a>
+<a href="https://katyazubareva.space/">Portfolio</a>
   ·   <a href="https://github.com/KatyaZubareva">GitHub</a>
   ·   <a href="mailto:katyazubareva.mail@gmail.com">Email</a>
 
